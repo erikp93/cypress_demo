@@ -1,0 +1,4 @@
+1. Visit www.centrum.sk landing page
+2. Find and fill in email and password form fields
+3. Find and click the Log-In button
+8. Click ‘Logout’ button

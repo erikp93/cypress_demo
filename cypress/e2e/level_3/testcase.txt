@@ -1,0 +1,10 @@
+1. Visit www.centrum.sk landing page
+2. Find and fill in email and password form fields
+3. Find and click the 'Log-In' button
+4. Find and click the 'New-email' button
+5. Find and fill in recipiant form field
+6. Find and fill in subject form field
+7. Find and fill in text form field
+8. Find input type file element and insert a file
+9. Click 'Send' button and wait a bit longer
+10. Click ‘Logout’ button
